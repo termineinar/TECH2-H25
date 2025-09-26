@@ -43,14 +43,14 @@ install Anaconda (Python), Visual Studio Code, and git version control.
 ### Cloning
 
 1. Click on the green `Code` icon to clone the repository to your computer
-2. Select HTTPS or SSH depending on your authentication method (HTTPS for Windows, SSH for Mac) and copy the URL.
+2. Select HTTPS or SSH depending on your authentication method (SSH keys will only work if you have configured them) and copy the URL.
 3. You can clone the repository directly in Visual Studio Code, or use the command line:
 
-    _Windows:_
+    _Using HTTPS (no SSH key configured):_
     ```bash
     git clone https://github.com/richardfoltyn/TECH2-H25.git
     ```
-    _Mac (using SSH keys):_
+    _Using SSH keys:_
     ```bash
     git clone git@github.com:richardfoltyn/TECH2-H25.git
     ```
@@ -64,6 +64,7 @@ a conda environment called `TECH2`:
 ```bash
 conda env create -f environment.yml
 ```
+Note that you first need to change to the directly where `environment.yml` is located for this to work.
 
 
 ## Additional resources

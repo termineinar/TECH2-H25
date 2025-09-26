@@ -60,7 +60,7 @@ git config --global user.email johndoe@student.nhh.no
 ## SSH keys for GitHub (optional)
 
 In order to seamlessly access your remote repositories on GitHub, 
-you need to create a so-called SSH key on your local computer and 
+you *may* need to create a so-called SSH key on your local computer and 
 add it to your GitHub account.
 
 To create the SSH key, **copy** the following commands into the terminal:
