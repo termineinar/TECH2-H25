@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 #Step 1: Data preprocessing 
 # 1. Read CSV
-df = pd.read_csv('SCF_10pct.csv')
+df = pd.read_csv('pokemon.csv')
 
 # 2. Ages between 25-89
 df = df[(df['age'] >= 25) & (df['age'] <= 89)]
