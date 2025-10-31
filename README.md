@@ -24,7 +24,7 @@ Author: Richard Foltyn
 |  42  | Wed, Oct 15 | `L` | Grouping and aggregation | [Notebook](lectures/lecture4/lecture4.ipynb), [PDF](lectures/lecture4/lecture4.pdf) | —  |
 |      | Fri, Oct 17 | `W` | Grouping and aggregation | [Notebook](workshops/workshop4/workshop4.ipynb), [PDF](workshops/workshop4/workshop4.pdf) | [Notebook](workshops/workshop4/workshop4-solution.ipynb), [PDF](workshops/workshop4/workshop4-solution.pdf) |
 |  43  | Wed, Oct 22 | `L` | Concatenating and merging | [Notebook](lectures/lecture5/lecture5.ipynb), [PDF](lectures/lecture5/lecture5.pdf) | —  |
-|      | Fri, Oct 24 | `W` | Concatenating and merging | [Notebook](workshops/workshop5/workshop5.ipynb), [PDF](workshops/workshop5/workshop5.pdf) | |
+|      | Fri, Oct 24 | `W` | Concatenating and merging | [Notebook](workshops/workshop5/workshop5.ipynb), [PDF](workshops/workshop5/workshop5.pdf) | [Notebook](workshops/workshop5/workshop5-solution.ipynb), [PDF](workshops/workshop5/workshop5-solution.pdf) |
 |  44  | Fri, Oct 31 | `L` | Using AI in VS Code | TBA | — |
 
 
